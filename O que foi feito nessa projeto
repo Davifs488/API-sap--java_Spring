@@ -1,0 +1,6 @@
+# API-sap--java_Spring
+Foi criada uma API Rest que disponibilizou um endpoint/products 
+E assim pode-se obter uma lista de produtos com suas 
+respectivas categoria.
+O modelo de domínio ,e um exemplo são mostrados a seguir
+Os produtos podem ser instanciados "hard code".
